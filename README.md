@@ -84,6 +84,11 @@
 [<img src="/internship.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/ngnevanova/ngnevanova/refs/heads/main/internship.png)
 
 <br>
+
+## Рекомендательное письмо
+[<img src="/recommendation.jpg" width="280px" hspace="10px" alt="Рекомендательное письмо QA Studio»">](https://raw.githubusercontent.com/ngnevanova/ngnevanova/refs/heads/main/recommendation.jpg)
+
+<br>
 <br>
 
 ## 🤝 Контакт
